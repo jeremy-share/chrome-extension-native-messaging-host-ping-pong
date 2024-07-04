@@ -1,0 +1,9 @@
+{
+  "name": "ping_pong",
+  "description": "Ping Pong",
+  "path": "/home/{{CHANGE_ME}}/.config/google-chrome/NativeMessagingHosts/ping_pong.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://{{CHANGE_ME}}/"
+  ]
+}
